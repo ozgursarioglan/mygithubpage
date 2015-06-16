@@ -1,0 +1,181 @@
+@charset "utf-8";
+.ust {
+	background-image: url(ust.png);
+	background-position: center;
+	width: 100%;
+	height: 15px;
+	background-repeat: no-repeat;
+}
+.logo_reklam_Vb {
+	height: 100px;
+	width: 100%;
+}
+.katagori {
+	sheight: 100px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #C1C8B6;
+	border-right-color: #C1C8B6;
+	border-bottom-color: #C1C8B6;
+	border-left-color: #C1C8B6;
+	margin-top: 10px;
+	height: 150px;
+	color: a76143;
+}
+
+.face_twt {
+	height: 40px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #C1C8B6;
+	border-right-color: #C1C8B6;
+	border-bottom-color: #C1C8B6;
+	border-left-color: #C1C8B6;
+}
+
+.logo {
+	float: left;
+	height: 980px;
+	width: 780px;
+	margin-top: 8px;
+	margin-left: 10px;
+	background-color: #FFFFFF;
+	margin-right: 10px;
+}
+
+.orta {
+	background-image: url(alt.png);
+	height: 15px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.reklam {
+	float: right;
+	height: 85px;
+	width: 200px;
+	margin-top: 8px;
+	margin-right: 10px;
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+}
+.menu {
+	height: 50px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.sag {
+	float: right;
+	height: 980px;
+	width: 200px;
+	background-image: url(../div_back/sag_arka.png);
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-top-color: #C1C8B6;
+	border-right-color: #C1C8B6;
+	border-bottom-color: #C1C8B6;
+	border-left-color: #C1C8B6;
+}
+
+.texbox {
+	width: 250px;
+	border: 1px solid #000000;
+}
+
+.konu {
+	height: 400px;
+	width: 500px;
+	float: left;
+	margin-right: 20px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #393939;
+}
+.form {
+	height: 150px;
+	width: 950px;
+	margin-right: 17px;
+	margin-bottom: 17px;
+	margin-left: 17px;
+	border: 1px solid #FBCD32;
+}
+.buton {
+	width: 225px;
+	color: #FFFFFF;
+     background-image: url(button.gif);
+	height: 40px;
+	font-size: 24px;
+}
+.ust2 {
+	margin: 10px;
+	height: 126px;
+	width: 780px;
+	background-color: #FFFFFF;
+	border: 1px solid #C1C8B6;
+}
+.ust3 {
+	height: 3px;
+}
+.logo2 {
+	height: 100px;
+	width: 300px;
+	cursor: help;
+}
+
+
+.page2 {
+	background-color: #FFFFFF;
+	height: 500px;
+	width: 500px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#yazi {
+	margin-top: 10px;
+	cursor: e-resize;
+	filter: Xray;
+}
+
+
+.page {
+	background-image: url(../div_back/saydam_arka.png);
+	height: 800px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.ust1 {
+	height: 150px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../div_back/saydam_arka.png);
+}
+
+
+
+
+
+
+.orta2 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 985px;
+	height: 800px;
+}
+.video {
+	height: 500px;
+	width: 950px;
+	margin: 17px;
+	border: 1px solid #EF6052;
+}

@@ -1,0 +1,26 @@
+@charset "utf-8";
+.orta1 {
+	height: 1000px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../div_back/saydam_arka.png);
+	margin-top: 20px;
+}
+.orta2 {
+	height: 680px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.orta3 {
+	height: 660px;
+	width: 760px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../back/p24-1.jpg);
+}
