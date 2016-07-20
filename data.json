@@ -1,0 +1,20 @@
+
+[
+  {
+        "title": "merhaba dunya",
+        "body": [
+          "test metni",
+        ],
+        "author": "ozgur",
+        "comments": [
+          {
+            "body":"ornek yorum",
+            "author": "ozgur"
+          }
+        ],
+        "likes":0,
+        "image":"http://placekitten.com/g/2000/600",
+        "createdOn":1408547127216
+  }
+
+]
